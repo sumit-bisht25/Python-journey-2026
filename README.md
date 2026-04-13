@@ -12,7 +12,7 @@ Build 1 thing per week and track progress publicly. Target: internship by 2027.
 
 ### Repo Structure
 - `01_basics/` - Day 1-? ode
-- `02_projects/` - nothing right now
+- `01_projects/` - nothing right now
 - `notes.md` - Concepts I struggled with + solutions
 
 ### Next Up
