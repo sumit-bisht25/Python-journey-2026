@@ -7,7 +7,7 @@ Build 1 thing per week and track progress publicly. Target: internship by 2027.
 
 ### Current Skills
 - Python basics: variables, loops, functions, lists, dicts
-- Tools: Pydroid 3, Replit, GitHub mobile
+- Tools: Acode mobile, GitHub mobile
 - Courses: SoloLearn Python Core [100%], Coursera Programming for Everybody [in progress]
 
 ### Repo Structure
