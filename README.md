@@ -11,7 +11,7 @@ Build 1 thing per week and track progress publicly. Target: internship by 2027.
 - Courses: SoloLearn Python Core [100%], Coursera Programming for Everybody [in progress]
 
 ### Repo Structure
-- `01_basics/` - Day 1-? ode
+- 01_basics/ - Day 1-? ode
 - `02_projects/` - nothing right now
 - `notes.md` - Concepts I struggled with + solutions
 
