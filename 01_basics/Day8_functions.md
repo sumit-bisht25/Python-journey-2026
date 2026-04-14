@@ -1,11 +1,11 @@
-# what is functions
+# what is functions? 
 
 
-1.Functions are reusable blocks of code for specific tasks. They help keep your code as short and easy to work with as possible, saving you from repeating code.
+1- Functions are reusable blocks of code for specific tasks. They help keep your code as short and easy to work with as possible, saving you from repeating code.
 
-print(), input(), and type() are functions.
+## print(), input(), and type() are functions.
 
-`2-`A function performs a task.
+2-A function performs a task.
 A function contains the code to perform a task. To use this code, you just need to call the function.
 Example:
 Print("new message") As an example, the print() function contains hundreds of lines of code with all the instructions needed to take a message, process it and display it on the screen.
