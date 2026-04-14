@@ -9,6 +9,7 @@ Build 1 thing per week and track progress publicly. Target: internship by 2027.
 - Python basics: variables, loops, functions, lists, dicts
 - Tools: Acode mobile, GitHub mobile
 - Courses: SoloLearn Python Core [100%], Coursera Programming for Everybody [in progress]
+- YouTube: CS50 YouTube online caurse [in progress]
 
 ### Repo Structure
 - `01_basics/` - Day 1-? ode
