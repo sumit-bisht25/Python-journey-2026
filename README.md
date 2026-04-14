@@ -15,6 +15,7 @@ Build 1 thing per week and track progress publicly. Target: internship by 2027.
 - `01_basics/` - Day 1-? ode
 - `01_projects/` - nothing right now
 - `01_notes.md` - Concepts I struggled with + solutions
+- `01_CS50` - What I learned from CS50 youtube online caurse. 
 
 ### Next Up
 File handling, then OOP. First API project by end of 2026.
