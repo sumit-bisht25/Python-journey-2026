@@ -7,8 +7,8 @@
 * A function performs a task.
 #### example: print("hello") displaysh'hello' to screen. 
 
-*A function contains the code to perform a task. To use this code, you just need to call the function.
-####Example: print("hello") [ we are calling 'print' function]
+* A function contains the code to perform a task. To use this code, you just need to call the function.
+#### example: print("hello") [ we are calling 'print' function]
 
 * As an example, the print() function contains hundreds of lines of code with all the instructions needed to take a message, process it and display it on the screen.
 
