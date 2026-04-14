@@ -15,7 +15,7 @@ Build 1 thing per week and track progress publicly. Target: internship by 2027.
 - `01_basics/` - Day 1-? ode
 - `02_capstone_slololearn/` - my sololearn projects. 
 - `notes.md` - Concepts I struggled with + solutions
-- `01_CS50` - What I learned from CS50yyoutube caurse. 
+- `03_CS50/` - What I learned from CS50yyoutube caurse. 
 
 ### Next Up
 File handling, then OOP. First API project by end of 2026.
