@@ -1,4 +1,4 @@
-###what is functions
+# what is functions
 
 
 1.Functions are reusable blocks of code for specific tasks. They help keep your code as short and easy to work with as possible, saving you from repeating code.
